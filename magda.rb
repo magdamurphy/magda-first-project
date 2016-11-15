@@ -1,2 +1,2 @@
 puts "hello world!"
-puts "misiu is the best"
+puts "zabka is the best"
